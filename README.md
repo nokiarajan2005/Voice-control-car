@@ -58,7 +58,4 @@ The system works by receiving voice input from an Android app, which is converte
     * Connect to the HC-05 module (Pairing code: `1234`).
     * Use the commands: `forward`, `back`, `left`, `right`, and `stop`.
 
----
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
